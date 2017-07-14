@@ -1,7 +1,7 @@
 # Site settings
-title: BY Blog
+title: simple Blog
 SEOTitle: 蒋林莲dalao的博客 | little Blog
-header-img: img/post-bg-desk.jpg
+header-img: #img/post-bg-desk.jpg
 email: L_inkkkk1414@163.com
 description: "fail,fail,forget howmany times i failed,anyway,i will suceed."
 keyword: "BY, BY Blog, 林莲的博客, linlianjiang, 蒋林莲, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/linlianjiang/linlianjiang.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "play the guiter in the code to write the best cook."
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: #img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
