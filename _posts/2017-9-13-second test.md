@@ -23,7 +23,7 @@ tags:
 ![](http://ow67xuzmd.bkt.clouddn.com/2017-08-11.png)
 ## 后记
 
-死而无憾了
+死而无憾了.
 
 —— seco 后记于 2017.9
 
