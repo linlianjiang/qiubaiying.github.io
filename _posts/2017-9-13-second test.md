@@ -1,14 +1,30 @@
 ---
 layout:     post
-title:      second
-subtitle:   second test
-date:       2017
+title:      Hello 2017
+subtitle:    "third try""
+date:       2017-09-13
 author:     BY
 header-img: img/home.jpg
-catalog: 	 true
+catalog: true
 tags:
-    - test
-    - second
+    - 生活
 ---
-## this is a test
-*buzhidaoxieshenme
+
+> “🙉🙉🙉 ”
+
+
+## 前言
+
+我已经搭了很多次了，这次一定要成功啊
+
+<p id = "build"></p>
+---
+
+![](http://ow67xuzmd.bkt.clouddn.com/2017-08-11.png)
+## 后记
+
+死而无憾了
+
+—— 色哦 后记于 2017.9
+
+
