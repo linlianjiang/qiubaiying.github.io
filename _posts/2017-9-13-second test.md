@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Hello 2017
-subtitle:    "third try""
+title:      最后测试
+subtitle:   第三次
 date:       2017-09-13
-author:     BY
-header-img: img/home.jpg
+author:     seco
+header-img: img/test.jpg
 catalog: true
 tags:
     - 生活
