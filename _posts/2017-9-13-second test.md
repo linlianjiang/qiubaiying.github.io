@@ -4,7 +4,7 @@ title:      最后测试
 subtitle:   第三次
 date:       2017-09-13
 author:     seco
-header-img: img/test.jpg
+header-img: img/post-bg-test.jpg
 catalog: true
 tags:
     - 生活
