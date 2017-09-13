@@ -18,12 +18,12 @@ sidebar-avatar:    # use absolute URL, seeing it's used in both `/` and `/about/
 
 # SNS settings
 RSS: false
-# weibo_username:   none
-zhihu_username:     secret
+weibo_username:
+zhihu_username:  ni-shi-lang-zi-bie-bo-an-53-77 
 github_username:    linlianjiang
 facebook_username:  林四
-jianshu_username:   浪子不悔
-#twitter_username:   none
+jianshu_username:   76c07094eae2
+twitter_username:  
 
 
 
@@ -94,11 +94,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: ,
+        href:
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·seco",
+        href: "http://www.jianshu.com/u/"
     },{
         title: "Apple",
         href: "https://apple.com"
