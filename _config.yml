@@ -3,27 +3,27 @@ title: a Blog FOR  L
 SEOTitle: 蒋林莲dalao的博客 | little Blog
 header-img: img/2017-09-16 (3) 1.jpg
 email: L_inkkkk1414@163.com
-description: "fail,fail,forget howmany times i failed,anyway,i will suceed."
-keyword: "BY, BY Blog, 林莲的博客, linlianjiang, 蒋林莲, iOS, Apple, iPhone"
+description: "Every failure is leading towards success."
+keyword: "seco, a Blog FOR L, 蒋林莲, linlian, 蒋林莲dalao的博客"
 url: "http://linlianjiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linlianjiang/linlianjiang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "play the guiter in the code to write the best cook."
-sidebar-avatar:    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:
-zhihu_username:  ni-shi-lang-zi-bie-bo-an-53-77 
+# weibo_username:     
+zhihu_username:     nishilangzibieboan
 github_username:    linlianjiang
 facebook_username:  林四
-jianshu_username:   76c07094eae2
-twitter_username:  
+jianshu_username:   
+#twitter_username:   
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: "linlianjiang"
+disqus_username: 
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -94,8 +94,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: ,
-        href:
+        title: 
+        href: 
     },{
         title: "简书·seco",
         href: "http://www.jianshu.com/u/"
