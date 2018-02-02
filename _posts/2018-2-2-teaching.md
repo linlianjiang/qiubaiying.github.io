@@ -4,7 +4,7 @@ title:      Teaching
 subtitle:   Life
 date:       2018-2-2
 author:     Seco
-header-img: img/post-teach-1.jpg
+header-img: img/post-1.jpg
 catalog: 	 true
 tags:
     - Life
