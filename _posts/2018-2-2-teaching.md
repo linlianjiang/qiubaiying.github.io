@@ -25,7 +25,7 @@ anyhow,i hate what i do,although looks presentable,also valuable.
 
 saying i only do what i do,lie.
 
-i must aplogy for myself,but i dont have right depive others chance for studying.
+i must aplogy for myself,but i dont have right to depive others chance for studying.
 
 As a memory.
 
